@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #20B2AA;
+    padding:10px;
+    border-radius:10px;
+}
+
+h1{
+    color: aqua;
+    text-align: center;
+}
+
+footer{
+    background-color: #00BFFF;
+}
+
+
+.text{
+    background-color: #00BFFF;
+}
+
+#discount{
+    color: gray;
+}
+
+img{
+    padding: 10px;
+}
